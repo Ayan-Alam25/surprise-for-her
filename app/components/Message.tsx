@@ -24,7 +24,7 @@ export default function Message() {
         transition={{ duration: 0.5, delay: 0.5 }}
       >
         <Image
-          src="/US.jpg"
+          src="/US.JPG"
           alt="Heart"
           width={200}
           height={200}
